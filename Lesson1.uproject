@@ -1,0 +1,25 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{2218A0C5-4DB0-B5B7-9B7F-33AA64B31458}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Lesson1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	],
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		}
+	]
+}

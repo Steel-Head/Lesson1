@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\UE\\Project\\Lesson1\\Source\\Lesson1\\Lesson1.Build.cs",
+		"E:\\UE\\Project\\Lesson1\\Source\\Lesson1.Target.cs",
+		"E:\\UE\\Project\\Lesson1\\Source\\Lesson1Editor.Target.cs"
+	],
+	"EngineVersion": "5.5.1"
+}
